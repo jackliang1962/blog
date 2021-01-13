@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jackliang1962.github.io</id>
     <title>梁秋水的博客</title>
-    <updated>2021-01-13T04:52:33.917Z</updated>
+    <updated>2021-01-13T04:58:20.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jackliang1962.github.io"/>
     <link rel="self" href="https://jackliang1962.github.io/atom.xml"/>
-    <subtitle>&lt;h1 style=&quot;font-size:250%&quot;&gt;谨守而勿失，是谓反其真。&lt;/h1&gt;</subtitle>
+    <subtitle>&lt;img src=&quot;/post-images/1610513811775.png&quot; /&gt;&lt;/p&gt;</subtitle>
     <logo>https://jackliang1962.github.io/images/avatar.png</logo>
     <icon>https://jackliang1962.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 梁秋水的博客</rights>
