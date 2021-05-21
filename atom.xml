@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jackliang1962.github.io</id>
     <title>梁秋水的博客</title>
-    <updated>2021-03-16T05:30:22.787Z</updated>
+    <updated>2021-05-21T10:14:51.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jackliang1962.github.io"/>
     <link rel="self" href="https://jackliang1962.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://jackliang1962.github.io/images/avatar.png</logo>
     <icon>https://jackliang1962.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 梁秋水的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[五律.小满]]></title>
+        <id>https://jackliang1962.github.io/post/wu-lu-xiao-man/</id>
+        <link href="https://jackliang1962.github.io/post/wu-lu-xiao-man/">
+        </link>
+        <updated>2021-05-21T10:11:13.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>今日小满，万物至此，小得盈满。<br>
+小满者，知足常乐，淡泊谦逊，满而不损，大成若缺。小满是一年中最佳的季节，小满是人生最佳的状态。小满即是圆满，小满就是幸福！</p>
+</blockquote>
+<p>送走三春雪，迎来四月天；<br>
+岭南葱郁郁，皖北落红寒。<br>
+漫漫生之路，离合间悲欢；<br>
+大成宜若缺，小满即盈圆。</p>
+<figure data-type="image" tabindex="1"><img src="https://jackliang1962.github.io/post-images/1621592004504.JPG" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[致而立之年的笑笑]]></title>
         <id>https://jackliang1962.github.io/post/zhi-er-li-zhi-nian-de-xiao-xiao/</id>
@@ -232,64 +249,6 @@
 <p><img src="https://jackliang1962.github.io/post-images/1610504401396.jpeg" alt="" loading="lazy"><br>
 <img src="https://jackliang1962.github.io/post-images/1610508306205.jpeg" alt="" loading="lazy"><br>
 <img src="https://jackliang1962.github.io/post-images/1610508313341.jpeg" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[秋]]></title>
-        <id>https://jackliang1962.github.io/post/qiu/</id>
-        <link href="https://jackliang1962.github.io/post/qiu/">
-        </link>
-        <updated>2019-08-23T08:14:23.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>处，止也，处暑至，暑气止，池上秋来，天地始肃。己亥年秋月依艾莉、李范《秋》三叠原韵，加三叠。</p>
-</blockquote>
-<p>伊人秋水上<br>
-耳畔秋风响<br>
-蒹葭舞婆娑<br>
-愁恨满心房</p>
-<p>春遇灞桥上<br>
-执手话暖凉<br>
-自此无相遇<br>
-宛在水中央</p>
-<p>秋至树枝黄<br>
-塬上草披霜<br>
-思君空对月<br>
-无语泪千行</p>
-<figure data-type="image" tabindex="1"><img src="https://jackliang1962.github.io/post-images/1610504432856.jpeg" alt="" loading="lazy"></figure>
-<pre><code>附：
-《秋》原韵
-艾莉
-一叶落裙上
-忽闻蝉声响
-抬头影婆娑
-意趣搅心房
-
-翎羽飘湖上
-为谁试水凉
-故知何时遇
-我在水中央
-
-远看秋草黄
-浮梦画麦芒
-醉卧十五月
-灞柳雪成行
-
-《读艾莉【秋】三叠驰遐想依韵和》
-李范
-秋叶扫塞上
-阳关胡笛响
-风烟月婆娑
-执戟为阿房
-
-落日尽河上
-泾渭知暖凉
-清浊故相遇
-玉盘人未央
-
-西望原上黄
-白鹿长安霜
-三影空对月
-灞桥柳成行</code></pre>
 ]]></content>
     </entry>
 </feed>
