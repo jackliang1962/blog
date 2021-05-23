@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://jackliang.cc</id>
+    <id>http://jackliang.cc</id>
     <title>梁秋水的博客</title>
-    <updated>2021-05-23T15:18:13.803Z</updated>
+    <updated>2021-05-23T15:25:05.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://jackliang.cc"/>
-    <link rel="self" href="https://jackliang.cc/atom.xml"/>
+    <link rel="alternate" href="http://jackliang.cc"/>
+    <link rel="self" href="http://jackliang.cc/atom.xml"/>
     <subtitle>&lt;img src=&quot;/post-images/1610513811775.png&quot; width=&quot;40%&quot; /&gt;</subtitle>
-    <logo>https://jackliang.cc/images/avatar.png</logo>
-    <icon>https://jackliang.cc/favicon.ico</icon>
+    <logo>http://jackliang.cc/images/avatar.png</logo>
+    <icon>http://jackliang.cc/favicon.ico</icon>
     <rights>All rights reserved 2021, 梁秋水的博客</rights>
     <entry>
         <title type="html"><![CDATA[五律.小满]]></title>
-        <id>https://jackliang.cc/post/wu-lu-xiao-man/</id>
-        <link href="https://jackliang.cc/post/wu-lu-xiao-man/">
+        <id>http://jackliang.cc/post/wu-lu-xiao-man/</id>
+        <link href="http://jackliang.cc/post/wu-lu-xiao-man/">
         </link>
         <updated>2021-05-21T10:11:13.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -24,13 +24,13 @@
 岭南葱郁郁，皖北落红寒。<br>
 漫漫生之路，离合间悲欢；<br>
 大成宜若缺，小满即盈圆。</p>
-<figure data-type="image" tabindex="1"><img src="https://jackliang.cc/post-images/1621592004504.JPG" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="http://jackliang.cc/post-images/1621592004504.JPG" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[致而立之年的笑笑]]></title>
-        <id>https://jackliang.cc/post/zhi-er-li-zhi-nian-de-xiao-xiao/</id>
-        <link href="https://jackliang.cc/post/zhi-er-li-zhi-nian-de-xiao-xiao/">
+        <id>http://jackliang.cc/post/zhi-er-li-zhi-nian-de-xiao-xiao/</id>
+        <link href="http://jackliang.cc/post/zhi-er-li-zhi-nian-de-xiao-xiao/">
         </link>
         <updated>2021-03-15T02:34:06.000Z</updated>
         <content type="html"><![CDATA[<p>亲爱的儿子：</p>
@@ -89,8 +89,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[庚子中秋随笔]]></title>
-        <id>https://jackliang.cc/post/geng-zi-zhong-qiu-sui-bi/</id>
-        <link href="https://jackliang.cc/post/geng-zi-zhong-qiu-sui-bi/">
+        <id>http://jackliang.cc/post/geng-zi-zhong-qiu-sui-bi/</id>
+        <link href="http://jackliang.cc/post/geng-zi-zhong-qiu-sui-bi/">
         </link>
         <updated>2020-10-06T08:23:55.000Z</updated>
         <content type="html"><![CDATA[<p>少时痛失怙，幸有高堂依，<br>
@@ -99,14 +99,14 @@
 不负父母恩，个个皆努力。<br>
 庚子中秋日，相约归故里，<br>
 共祝老母亲，鹤寿岁无极。</p>
-<p><img src="https://jackliang.cc/post-images/1610503835470.jpeg" alt="" loading="lazy"><br>
-<img src="https://jackliang.cc/post-images/1610508109015.jpeg" alt="" loading="lazy"></p>
+<p><img src="http://jackliang.cc/post-images/1610503835470.jpeg" alt="" loading="lazy"><br>
+<img src="http://jackliang.cc/post-images/1610508109015.jpeg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[聚青城]]></title>
-        <id>https://jackliang.cc/post/ju-qing-cheng/</id>
-        <link href="https://jackliang.cc/post/ju-qing-cheng/">
+        <id>http://jackliang.cc/post/ju-qing-cheng/</id>
+        <link href="http://jackliang.cc/post/ju-qing-cheng/">
         </link>
         <updated>2020-08-29T08:22:59.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -120,14 +120,14 @@
 酒祝手足情；<br>
 聚短意难尽，<br>
 无为又西东。</p>
-<p><img src="https://jackliang.cc/post-images/1610503889775.jpeg" alt="" loading="lazy"><br>
-<img src="https://jackliang.cc/post-images/1610508148151.jpeg" alt="" loading="lazy"></p>
+<p><img src="http://jackliang.cc/post-images/1610503889775.jpeg" alt="" loading="lazy"><br>
+<img src="http://jackliang.cc/post-images/1610508148151.jpeg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[仁怀·茅台]]></title>
-        <id>https://jackliang.cc/post/ren-huai-mao-tai/</id>
-        <link href="https://jackliang.cc/post/ren-huai-mao-tai/">
+        <id>http://jackliang.cc/post/ren-huai-mao-tai/</id>
+        <link href="http://jackliang.cc/post/ren-huai-mao-tai/">
         </link>
         <updated>2020-08-08T08:22:04.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -141,26 +141,26 @@
 刘伶觞尽对嵇康。<br>
 欲驱归骑心徘徊，<br>
 更进三杯且放狂。</p>
-<figure data-type="image" tabindex="1"><img src="https://jackliang.cc/post-images/1610503928348.jpeg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="http://jackliang.cc/post-images/1610503928348.jpeg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[七言·青城山]]></title>
-        <id>https://jackliang.cc/post/qi-yan-qing-cheng-shan/</id>
-        <link href="https://jackliang.cc/post/qi-yan-qing-cheng-shan/">
+        <id>http://jackliang.cc/post/qi-yan-qing-cheng-shan/</id>
+        <link href="http://jackliang.cc/post/qi-yan-qing-cheng-shan/">
         </link>
         <updated>2020-07-03T08:21:05.000Z</updated>
         <content type="html"><![CDATA[<p>与君借取青竹杖，<br>
 脚踏芒鞋入青山。<br>
 顶上结庐竹做伴，<br>
 烹茶煮酒度流年。</p>
-<figure data-type="image" tabindex="1"><img src="https://jackliang.cc/post-images/1610504256623.jpeg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="http://jackliang.cc/post-images/1610504256623.jpeg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[鹧鸪天·清明]]></title>
-        <id>https://jackliang.cc/post/zhe-gu-tian-qing-ming/</id>
-        <link href="https://jackliang.cc/post/zhe-gu-tian-qing-ming/">
+        <id>http://jackliang.cc/post/zhe-gu-tian-qing-ming/</id>
+        <link href="http://jackliang.cc/post/zhe-gu-tian-qing-ming/">
         </link>
         <updated>2020-04-04T08:19:37.000Z</updated>
         <content type="html"><![CDATA[<p>薄雾愁云日色朦，<br>
@@ -171,13 +171,13 @@
 阴阳两界各飘零。<br>
 人间瘟疫汹汹至，<br>
 祈愿天宫有太平！</p>
-<figure data-type="image" tabindex="1"><img src="https://jackliang.cc/post-images/1610504287694.jpeg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="http://jackliang.cc/post-images/1610504287694.jpeg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[空·色]]></title>
-        <id>https://jackliang.cc/post/kong-se/</id>
-        <link href="https://jackliang.cc/post/kong-se/">
+        <id>http://jackliang.cc/post/kong-se/</id>
+        <link href="http://jackliang.cc/post/kong-se/">
         </link>
         <updated>2019-12-27T08:17:25.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -187,7 +187,7 @@
 倩影望无迹，神魂复迷离。<br>
 天地何其远，思心何所栖？<br>
 方知空即色，无需着涤洗。</p>
-<figure data-type="image" tabindex="1"><img src="https://jackliang.cc/post-images/1610504320561.jpeg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="http://jackliang.cc/post-images/1610504320561.jpeg" alt="" loading="lazy"></figure>
 <pre><code>附：
 《浪荡景色》
 周华
@@ -213,8 +213,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[行香子·携酒相约]]></title>
-        <id>https://jackliang.cc/post/xing-xiang-zi-xi-jiu-xiang-yue/</id>
-        <link href="https://jackliang.cc/post/xing-xiang-zi-xi-jiu-xiang-yue/">
+        <id>http://jackliang.cc/post/xing-xiang-zi-xi-jiu-xiang-yue/</id>
+        <link href="http://jackliang.cc/post/xing-xiang-zi-xi-jiu-xiang-yue/">
         </link>
         <updated>2019-12-03T08:16:36.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -228,14 +228,14 @@
 叹光阴似箭如风。<br>
 青山不改，绿水常东。<br>
 愿常相知，常相忆，常相逢。</p>
-<p><img src="https://jackliang.cc/post-images/1610504361897.jpeg" alt="" loading="lazy"><br>
-<img src="https://jackliang.cc/post-images/1610508243035.jpeg" alt="" loading="lazy"></p>
+<p><img src="http://jackliang.cc/post-images/1610504361897.jpeg" alt="" loading="lazy"><br>
+<img src="http://jackliang.cc/post-images/1610508243035.jpeg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[广西行·相聚北海 打油诗]]></title>
-        <id>https://jackliang.cc/post/guang-xi-xing-xiang-ju-bei-hai-da-you-shi/</id>
-        <link href="https://jackliang.cc/post/guang-xi-xing-xiang-ju-bei-hai-da-you-shi/">
+        <id>http://jackliang.cc/post/guang-xi-xing-xiang-ju-bei-hai-da-you-shi/</id>
+        <link href="http://jackliang.cc/post/guang-xi-xing-xiang-ju-bei-hai-da-you-shi/">
         </link>
         <updated>2019-11-23T08:15:54.000Z</updated>
         <content type="html"><![CDATA[<p>昔年南指突击队，<br>
@@ -246,9 +246,9 @@
 剑南瓶空上茅台；<br>
 乘兴共忆当年勇，<br>
 青春不悔尽精彩。</p>
-<p><img src="https://jackliang.cc/post-images/1610504401396.jpeg" alt="" loading="lazy"><br>
-<img src="https://jackliang.cc/post-images/1610508306205.jpeg" alt="" loading="lazy"><br>
-<img src="https://jackliang.cc/post-images/1610508313341.jpeg" alt="" loading="lazy"></p>
+<p><img src="http://jackliang.cc/post-images/1610504401396.jpeg" alt="" loading="lazy"><br>
+<img src="http://jackliang.cc/post-images/1610508306205.jpeg" alt="" loading="lazy"><br>
+<img src="http://jackliang.cc/post-images/1610508313341.jpeg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
