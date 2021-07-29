@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jackliang.cc</id>
     <title>梁秋水的博客</title>
-    <updated>2021-07-29T08:12:43.410Z</updated>
+    <updated>2021-07-29T08:16:48.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jackliang.cc"/>
     <link rel="self" href="https://jackliang.cc/atom.xml"/>
@@ -20,23 +20,18 @@
 <p>和曾几《大暑》原韵<br>
 辛丑年夏日中伏第九天于青城后山“青城顶尚”竹林小院</p>
 </blockquote>
-<p>烈日当头过，<br>
-清风顶上寻。</p>
-<p>林中蝉鸣响，<br>
-溪涧叶浮沉。</p>
-<p>树静心亦静，<br>
-山深意更深。</p>
-<p>蜀地暑如许，<br>
-青城醉花阴。</p>
-<p>附：宋.曾几《大暑》</p>
-<p>赤日几时过，<br>
-清风无处寻。</p>
-<p>经书聊枕籍，<br>
-瓜李漫浮沉。</p>
-<p>兰若静复静，<br>
-茅茨深又深。</p>
-<p>炎蒸乃如许，<br>
-那更惜分阴。</p>
+<p>烈日当头过，清风顶上寻。<br>
+林中蝉鸣响，溪涧叶浮沉。</p>
+<p>树静心亦静，山深意更深。<br>
+蜀地暑如许，青城醉花阴。</p>
+<pre><code>附：宋.曾几《大暑》
+
+赤日几时过，清风无处寻。
+经书聊枕籍，瓜李漫浮沉。
+
+兰若静复静，茅茨深又深。
+炎蒸乃如许，那更惜分阴。
+</code></pre>
 <figure data-type="image" tabindex="1"><img src="https://jackliang.cc/post-images/1627546345689.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
