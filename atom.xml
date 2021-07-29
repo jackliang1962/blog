@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jackliang.cc</id>
     <title>梁秋水的博客</title>
-    <updated>2021-07-18T06:56:39.129Z</updated>
+    <updated>2021-07-29T08:12:43.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jackliang.cc"/>
     <link rel="self" href="https://jackliang.cc/atom.xml"/>
@@ -10,6 +10,36 @@
     <logo>https://jackliang.cc/images/avatar.png</logo>
     <icon>https://jackliang.cc/favicon.ico</icon>
     <rights>All rights reserved 2021, 梁秋水的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[青城夏日]]></title>
+        <id>https://jackliang.cc/post/qing-cheng-xia-ri/</id>
+        <link href="https://jackliang.cc/post/qing-cheng-xia-ri/">
+        </link>
+        <updated>2021-07-29T08:07:40.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>和曾几《大暑》原韵<br>
+辛丑年夏日中伏第九天于青城后山“青城顶尚”竹林小院</p>
+</blockquote>
+<p>烈日当头过，<br>
+清风顶上寻。</p>
+<p>林中蝉鸣响，<br>
+溪涧叶浮沉。</p>
+<p>树静心亦静，<br>
+山深意更深。</p>
+<p>蜀地暑如许，<br>
+青城醉花阴。</p>
+<p>附：宋.曾几《大暑》</p>
+<p>赤日几时过，<br>
+清风无处寻。</p>
+<p>经书聊枕籍，<br>
+瓜李漫浮沉。</p>
+<p>兰若静复静，<br>
+茅茨深又深。</p>
+<p>炎蒸乃如许，<br>
+那更惜分阴。</p>
+<figure data-type="image" tabindex="1"><img src="https://jackliang.cc/post-images/1627546345689.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[六十感怀]]></title>
         <id>https://jackliang.cc/post/lesslessliu-shi-gan-huai-greatergreater/</id>
@@ -229,27 +259,6 @@
 春夏秋冬迹，发长齿更离。
 生长收藏远，周复轮回栖。
 否极度神色，方知浣练洗。</code></pre>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[行香子·携酒相约]]></title>
-        <id>https://jackliang.cc/post/xing-xiang-zi-xi-jiu-xiang-yue/</id>
-        <link href="https://jackliang.cc/post/xing-xiang-zi-xi-jiu-xiang-yue/">
-        </link>
-        <updated>2019-12-03T08:16:36.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>二零一九年十一月十六日至二十三日，三十多年前的四化建南京杨子乙烯工程指挥部青年突击队员聚会广西。老友重逢，令人难忘，写以记之。</p>
-</blockquote>
-<p>携酒相约，携手同行。<br>
-重相聚逸兴无穷。<br>
-一桌美味，佳酿千盅。<br>
-忆当年人，当年事，当年情。</p>
-<p>今时八桂，那时金陵。<br>
-叹光阴似箭如风。<br>
-青山不改，绿水常东。<br>
-愿常相知，常相忆，常相逢。</p>
-<p><img src="https://jackliang.cc/post-images/1610504361897.jpeg" alt="" loading="lazy"><br>
-<img src="https://jackliang.cc/post-images/1610508243035.jpeg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
